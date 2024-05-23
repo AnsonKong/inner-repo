@@ -1,0 +1,4 @@
+[submodule "out-repo"]
+	path = out-repo
+	url = https://github.com/AnsonKong/out-repo
+	branch = main
